@@ -28,6 +28,9 @@ gem 'jbuilder', '~> 2.5'
 #boostrap
 gem 'bootstrap-sass'
 
+gem 'devise'
+gem 'devise-i18n'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
