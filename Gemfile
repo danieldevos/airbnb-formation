@@ -27,6 +27,7 @@ gem 'jbuilder', '~> 2.5'
 
 #boostrap
 gem 'bootstrap-sass'
+gem 'jquery-rails'
 
 gem 'devise'
 gem 'devise-i18n'
