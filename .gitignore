@@ -30,4 +30,4 @@
 /config/master.key
 
 # Ignore le fichier Gemfile.lock
-Gemfile.lock
+.Gemfile.lock
